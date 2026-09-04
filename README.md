@@ -7,7 +7,7 @@ some of them suck some of them top (or have topped) the leaderboards
 
 - fully working (i hope)
 - really good at winning (probably)
-- 3 versions
+- different architectures/strategies 
 
 ## Usage
 
