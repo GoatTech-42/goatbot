@@ -1,4 +1,4 @@
-// goatbot v3 - 1.803 average score
+// goatbot v3 - 1.7 average score
 // deployed 9/4/26
 
 const C = "C",
